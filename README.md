@@ -19,8 +19,8 @@
 
 ##Flip Flop
 
-![alt text](https://github.com/onaclovtech/OptimizationProblems/blob/master/figures/fourpeaks_n_5.png "Flip Flop Algorithm N=5")
+![alt text](https://github.com/onaclovtech/OptimizationProblems/blob/master/figures/flipflop_n_5.png "Flip Flop Algorithm N=5")
 
-![alt text](https://github.com/onaclovtech/OptimizationProblems/blob/master/figures/fourpeaks_n_10.png "Flip Flop Algorithm N=10")
+![alt text](https://github.com/onaclovtech/OptimizationProblems/blob/master/figures/flipflop_n_10.png "Flip Flop Algorithm N=10")
 
-![alt text](https://github.com/onaclovtech/OptimizationProblems/blob/master/figures/fourpeaks_n_15.png "Flip Flop Algorithm N=15")
+![alt text](https://github.com/onaclovtech/OptimizationProblems/blob/master/figures/flipflop_n_15.png "Flip Flop Algorithm N=15")
